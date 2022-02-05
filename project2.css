@@ -1,0 +1,59 @@
+.body
+{
+  align-items:center;
+}
+.container
+{
+   display:flex;
+   flex-direction: row;
+}
+.box1
+{
+   width:200px;
+   height:300px;
+   border:2px solid black;
+   padding-left:50px;
+   padding-top:50px;
+   border-radius :5px;
+   box-sizing:border-box;
+   margin:5px;
+   box-shadow:5px 10px 3px gray;
+}
+.task
+{
+   text-decoration: line-through;
+   color:red;
+}
+.box2
+{
+   width:200px;
+   height:300px;
+   border:2px solid black;
+   padding-left:50px;
+   padding-top:50px;
+   border-radius :5px;
+   box-sizing:border-box;
+   margin:5px;
+   box-shadow:5px 10px 3px gray;
+}
+.box3
+{
+   width:200px;
+   height:300px;
+   border:2px solid black;
+   padding-left:50px;
+   padding-top:50px;
+   border-radius :5px;
+   box-sizing:border-box;
+   margin:5px;
+   box-shadow:5px 10px 3px gray;
+}
+.btn
+{
+  background-color:red;
+  color:white;
+  border-radius:50%;
+   padding:5px;
+   padding-right:5px;
+}
+

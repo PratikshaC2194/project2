@@ -1,0 +1,116 @@
+body
+{
+   align-items:center;
+}
+.container
+{
+   display:flex;
+   flex-direction: row;
+   
+   
+}
+.box1
+{
+   width:200px;
+   height:300px;
+   border:1px solid red;
+   padding-left:50px;
+   padding-top:50px;
+   border-radius :5px;
+   box-sizing:border-box;
+   margin:auto;
+   box-shadow:5px 5px 3px gray;
+   align-items:center;
+}
+.task
+{
+   text-decoration: line-through;
+   color:red;
+}
+.box2
+{
+   width:200px;
+   height:300px;
+   border:1px solid red;
+   padding-left:50px;
+   padding-top:50px;
+   border-radius :5px;
+   box-sizing:border-box;
+   margin:auto;
+   box-shadow:5px 5px 3px gray;
+   position:relative;
+   
+}
+.box3
+{
+   width:200px;
+   height:300px;
+   border:1px solid red;
+   padding-left:50px;
+   padding-top:50px;
+   border-radius :5px;
+   box-sizing:border-box;
+   margin:auto;
+   box-shadow:5px 5px 3px gray;
+   position:relative;
+}
+.button
+{
+   padding-left:40%;
+   background-color:red;
+   color:white;
+}
+ .container1
+{
+    width:250px;
+    height:100px;
+    box-sizing:border-box;
+    border:2px solid red;
+    padding:20px;
+    position:relative;
+    margin-top:-400px;
+    margin-left:500px;
+    margin-right: 400px;
+    color:red;
+    
+}   
+.h1
+{
+    margin:auto;
+    color:red;
+}
+.page
+{
+
+  filter:blur(5px);
+  margin:auto;
+}
+.container
+{
+    margin:auto;
+  filter:blur(5px);
+}
+.page
+{   
+    margin:auto;
+    filter:blur(5px);
+}
+label
+{    
+    margin:auto;
+    filter:blur(5px);
+}
+.b1
+{
+   background-color: tomato;
+   color:white;
+   padding:5px;
+   border-radius:10px;
+   size:3px;
+   border:none;
+    margin:auto;
+    text-align:center;
+
+}
+
+
